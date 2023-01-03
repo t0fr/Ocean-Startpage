@@ -80,7 +80,8 @@ body{
   width: 300px;
   padding-left: 20px;
   margin-left: 60px;
-  font-family: CaskaydiaCove Nerd Font;
+  font-family:"Open Sans", sans-serif;
+  /* font-family: CaskaydiaCove Nerd Font; */
   color: aliceblue;
   font-size: 17px;
   font-weight:100;
@@ -102,7 +103,7 @@ h4:hover{
 }
 a:hover{
   color: rgb(144, 217, 244);
-  font-style: italic;
+  font-style: bold;
   margin-bottom: 2px;
 }
 a{
